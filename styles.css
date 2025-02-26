@@ -78,7 +78,7 @@ header .nav:hover{
 }
 
 #main .left p{
-    font-size: 0.9rem;
+    font-weight: 600;
     color: hsl(210, 9%, 46%);
     margin-bottom: 2rem;
     line-height: 1.2rem;
